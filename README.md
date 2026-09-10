@@ -1,10 +1,10 @@
 ## 📌 Sobre Mim
 
-Estudante de Engenharia da Computação em Piracicaba, gosto de me expor a desafios e compartilhar conhecimento com a comunidade. Estou sempre em busca de aprimorar minhas habilidades e expandir meu domínio sobre sistemas e tecnologias diversas.
+Engenheiro de Dados em formação pela Engenharia da Computação no IFSP (conclusão dezembro 2026), com experiência prática em ambientes reais de Big Data, pipelines ETL e análise de dados.
 
-Atualmente, participo ativamente do desenvolvimento de soluções tecnológicas, passando por diferentes etapas do ciclo de vida de software: levantamento de requisitos, modelagem de dados, construção de interfaces com foco em boas práticas de UX/UI, desenvolvimento front-end (HTML, CSS, JavaScript) e back-end (SQL), além de atuar em testes, documentação, manutenção e evolução contínua de sistemas.
+Atuei mantendo pipelines ETL em produção, otimizando queries T-SQL no SQL Server e desenvolvendo scripts Python para extração e transformação de grandes volumes de dados. Tenho certificação em Power BI pelo SENAI, experiência com BigQuery, PostgreSQL e Microsoft Fabric nas camadas Bronze, Silver e Gold.
 
-Sou movido por curiosidade e gosto de aprender fazendo. Sempre aberto a novos projetos, colaborações e aprendizados.
+Sou movido por curiosidade e pela crença de que dado confiável na origem economiza horas de retrabalho no final. Gosto de compartilhar conhecimento com a comunidade e estou sempre em busca de novos desafios em engenharia e análise de dados.
 
 ---
 
